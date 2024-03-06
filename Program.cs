@@ -35,4 +35,14 @@ string [] fillArray (int Length)
     return Array;
 }
 
-
+void printArray (string [] Array)
+{
+    System.Console.Write (Array[0]);
+    for (int i = 1; i < Array.Length; i++)
+    {
+        if (Array[i]!= null)
+        {
+        System.Console.Write($", {Array[i]}");
+        }
+    }
+}
