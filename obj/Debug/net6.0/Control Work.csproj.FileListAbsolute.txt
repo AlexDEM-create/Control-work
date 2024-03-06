@@ -1,0 +1,15 @@
+/Users/aleksejdemkin/Desktop/Tasks/Control Work/obj/Debug/net6.0/Control Work.csproj.AssemblyReference.cache
+/Users/aleksejdemkin/Desktop/Tasks/Control Work/obj/Debug/net6.0/Control Work.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejdemkin/Desktop/Tasks/Control Work/obj/Debug/net6.0/Control Work.AssemblyInfoInputs.cache
+/Users/aleksejdemkin/Desktop/Tasks/Control Work/obj/Debug/net6.0/Control Work.AssemblyInfo.cs
+/Users/aleksejdemkin/Desktop/Tasks/Control Work/obj/Debug/net6.0/Control Work.csproj.CoreCompileInputs.cache
+/Users/aleksejdemkin/Desktop/Tasks/Control Work/bin/Debug/net6.0/Control Work
+/Users/aleksejdemkin/Desktop/Tasks/Control Work/bin/Debug/net6.0/Control Work.deps.json
+/Users/aleksejdemkin/Desktop/Tasks/Control Work/bin/Debug/net6.0/Control Work.runtimeconfig.json
+/Users/aleksejdemkin/Desktop/Tasks/Control Work/bin/Debug/net6.0/Control Work.dll
+/Users/aleksejdemkin/Desktop/Tasks/Control Work/bin/Debug/net6.0/Control Work.pdb
+/Users/aleksejdemkin/Desktop/Tasks/Control Work/obj/Debug/net6.0/Control Work.dll
+/Users/aleksejdemkin/Desktop/Tasks/Control Work/obj/Debug/net6.0/refint/Control Work.dll
+/Users/aleksejdemkin/Desktop/Tasks/Control Work/obj/Debug/net6.0/Control Work.pdb
+/Users/aleksejdemkin/Desktop/Tasks/Control Work/obj/Debug/net6.0/Control Work.genruntimeconfig.cache
+/Users/aleksejdemkin/Desktop/Tasks/Control Work/obj/Debug/net6.0/ref/Control Work.dll
