@@ -24,6 +24,8 @@ string readText (string Text)
     string result = System.Console.ReadLine();
     return result;
 }
+
+
 string [] fillArray (int Length)
 {
     string [] Array = new string [Length];
@@ -46,3 +48,20 @@ void printArray (string [] Array)
         }
     }
 }
+
+string [] upgradeArray (string [] Array)
+{
+    int j=0;
+    string [] newArray = new string [Array.Length];
+    for (int i = 0; i < Array.Length; i++)
+    {
+        if (Array[i].Length<=3)
+        {
+            newArray[j]=Array[i];
+            j=j+1;
+        }
+    }
+    return newArray;
+}
+
+printArray(upgradeArray(fillArray(9)));
